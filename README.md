@@ -23,12 +23,8 @@
   
  
 <div> 
-  <a href="https://instagram.com/renan.qn" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/RenanQuin#1222" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:renanqn1999@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red " target="_blank"></a>
-  <a href="https://www.linkedin.com/in/renan-nascimento-a2542321a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
-  ##
+   ##
  
   
   ![Snake animation](https://github.com/renanqn/renanqn/blob/output/github-contribution-grid-snake.svg)
