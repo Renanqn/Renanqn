@@ -4,7 +4,7 @@
 
 📚 Estudando DevSecOps, Go, AWS, Docker, Linux, devops.
 
-🎓 Graduando em Ciência da Computação
+🎓 Graduado em Ciência da Computação
 
 <div>
   <a href= "https://beacons.ai/Renanqn">
