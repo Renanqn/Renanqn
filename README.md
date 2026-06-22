@@ -1,10 +1,10 @@
 # Olá! Eu sou o Renan Nascimento  
 
-🔭 Foco em Cibersegurança
+🔭 Foco em Cloud Computing
 
-📚 Estudando DevSecOps, Go, AWS, Docker, Linux,
+📚 Estudando DevSecOps, Go, AWS, Docker, Linux, devops.
 
-🎓 Graduando em Ciência da Computação 7/8
+🎓 Graduando em Ciência da Computação
 
 <div>
   <a href= "https://beacons.ai/Renanqn">
